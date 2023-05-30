@@ -23,6 +23,10 @@
 
 四、培训演讲
 
+- [《基于python的自动化代码审计》](https://mp.weixin.qq.com/s/NXVo08FwtbWBxEcvuRwuLw)@xfkxfk
+- [《python动态代码审计》](https://github.com/knownsec/KCon/blob/master/2018/26%E6%97%A5/26%E6%97%A5No.5-python%E5%8A%A8%E6%80%81%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1-%E8%81%82%E5%BF%83%E6%98%8E.pdf)@聂兴明
+- [《Python Hack》](https://vipread.com/library/topic/3450)@北北(孙博) 
+
 五、专利文献
 
 六、审计报告
@@ -36,6 +40,8 @@
 - https://tttang.com/archive/1885/
 - https://blog.51cto.com/csnd/5888007
 - https://github.com/topics/static-analysis?l=Python
+- https://github.com/niexinming/python_hook
+- https://github.com/SafeBreach-Labs/pyekaboo
 
 ## 02-Python安全研究工具
 
@@ -86,4 +92,4 @@
 
 ## 08-Python安全参考资源
 
-[![Stargazers over time](https://starchart.cc//0e0w/HackPython.svg)](https://starchart.cc/0e0w/HackPython)
+[![Stargazers over time](https://starchart.cc//FuckPython/HackPython.svg)](https://starchart.cc/FuckPython/HackPython)
