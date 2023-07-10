@@ -45,11 +45,14 @@
 
 ## 02-Python安全研究工具
 
+- [ ] https://github.com/PyCQA/bandit
 - [ ] https://github.com/python-security/pyt
 - [ ] https://github.com/davidhalter/jedi
 - [ ] https://github.com/google/pytype
 - [ ] https://github.com/rubik/radon
 - [ ] https://github.com/pschanely/CrossHair
+- [ ] https://github.com/pyupio/safety
+- [ ] https://github.com/landscapeio/prospector
 
 ## 03-Python安全漏洞环境
 
